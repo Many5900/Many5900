@@ -7,10 +7,10 @@
 
 <p align="center">
   <a href="https://github.com/Many5900">
-    <img height="80em" src="https://github-readme-stats.vercel.app/api?username=Many5900&show_icons=true&theme=dark&hide=stars,issues,contribs&include_all_commits=true&count_private=true"/>
+    <img height="120em" src="https://github-readme-stats.vercel.app/api?username=Many5900&show_icons=true&theme=dark&hide=stars,issues,contribs&include_all_commits=true&count_private=true"/>
   </a>
   <a href="https://github.com/Many5900">
-    <img height="80em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Many5900&layout=compact&theme=dark"/>
+    <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Many5900&layout=compact&theme=dark"/>
   </a>
 </p>
 </div>
