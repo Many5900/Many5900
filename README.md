@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Many5900&show_icons=true&theme=dark)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Many5900&show_icons=true&theme=dark&hide=stars,issues,contribs)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Many5900&layout=compact&theme=dark)
 
