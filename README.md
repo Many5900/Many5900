@@ -3,6 +3,9 @@
 
 <p><em>Software student at <a href="https://www.en.aau.dk/">Aalborg University</a></em></p>
 
+</br>
+</br>
+
 <!-- Stats --->
 <h2>Stats</h2>
 
@@ -15,7 +18,8 @@
   </a>
 </p>
 
-
+</br>
+</br>
 
 <!-- Tech Stack / Skills / Field of Interest --->
 <h2>Tech Stack / Skills / Field of Interest</h2>
@@ -23,7 +27,7 @@
   <!-- Rust --->
   <img src="https://img.shields.io/badge/-RUST-ce412b?style=for-the-badge&logo=rust&logoColor=ce412b&labelColor=282828">
   <!-- Go --->
-  <img src="https://img.shields.io/badge/-GO-007d9c?style=for-the-badge&logo=go&logoColor=007d9c&labelColor=282828">
+  <!-- <img src="https://img.shields.io/badge/-GO-007d9c?style=for-the-badge&logo=go&logoColor=007d9c&labelColor=282828"> --->
   <!-- TypeScript --->
   <img src="https://img.shields.io/badge/-TYPESCRIPT-2f74bf?style=for-the-badge&logo=typescript&logoColor=2f74bf&labelColor=282828">
   <!-- JavaScript --->
