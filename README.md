@@ -12,13 +12,13 @@
 <!-- &theme=dark --->
 <p align="center">
   <a href="https://github.com/Many5900">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Many5900&show_icons=true&hide=stars,issues,contribs&include_all_commits=true&count_private=true&border_radius=0"/> 
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Many5900&show_icons=true&hide=stars,issues,contribs&include_all_commits=true&count_private=true&border=0"/> 
   </a>
   <a href="https://github.com/Many5900">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Many5900&layout=compact&border_radius=0"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Many5900&layout=compact&border=0"/>
   </a>
   <a href="https://github.com/Many5900">
-    <img height="150em" src="https://streak-stats.demolab.com?user=Many5900&border_radius=0"/>
+    <img height="150em" src="https://streak-stats.demolab.com?user=Many5900&border=0"/>
   </a>
 </p>
 
