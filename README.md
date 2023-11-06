@@ -16,6 +16,9 @@
   <a href="https://github.com/Many5900">
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Many5900&layout=compact&theme=dark"/>
   </a>
+  <a href="https://github.com/Many5900">
+    <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=Many5900&theme=dark"/>
+  </a>
 </p>
 
 </br>
