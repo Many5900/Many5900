@@ -1,8 +1,5 @@
 <div align="center">
 <h1>Hi there, I'm Marc👋</h1>
-
-<p><em>Software student at <a href="https://www.en.aau.dk/">Aalborg University</a></em></p>
-
 </br>
 </br>
 
