@@ -4,7 +4,7 @@
 </br>
 
 <!-- Stats --->
-<h2>Stats</h2>
+<!--<h2>Stats</h2>-->
 
 <!-- &theme=dark --->
 <p align="center">
@@ -14,9 +14,11 @@
   <a href="https://github.com/Many5900">
     <img height="150em" src="https://github-readme-stats-six-ruby-41.vercel.app/api/top-langs/?username=Many5900&layout=compact&hide_border=true&theme=github_dark_dimmed&exclude_repo=github-readme-stats,p1_recipe_recommender_fork&langs_count=20&hide=Makefile,Cmake,Shell,Dockerfile"/>
   </a>
+  <!--
   <a href="https://github.com/Many5900">
     <img height="150em" src="https://streak-stats.demolab.com?user=Many5900&hide_border=true&theme=github_dark_dimmed"/>
   </a>
+  -->
 </p>
 
 </br>
